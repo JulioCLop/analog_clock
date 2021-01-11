@@ -1,7 +1,21 @@
 body{
-    background-color: aliceblue;
+    background-color: #e8e8e8;
 }
 
+.container{
+    padding: 5px;
+    background-color: #f4f4f4;
+    margin: 0 300px 0 300px;
+    border: black 5px solid;
+    height: 800px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+}
+.header{
+    text-align: center;
+    font-size: 2.5em;
+    
+
+}
 .main{
     display: flex;
     padding: 2em;
